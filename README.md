@@ -2,7 +2,7 @@
 adds stellar to metamask, by creating a non-custodial wallet built directly into metamask
 
 ## Standard Useage
-
+ 
 ### connecting
 
 calling this method will connect to metamask and automatically install the snap if it isn't already installed.
